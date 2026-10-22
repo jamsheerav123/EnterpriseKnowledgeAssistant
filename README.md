@@ -150,7 +150,7 @@ The augmented prompt is then sent to the locally running `llama3.2:3b` model thr
 
 ## Architecture Diagram
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/docs/RAG System Architecture Diagram.png)
 
 ---
 
