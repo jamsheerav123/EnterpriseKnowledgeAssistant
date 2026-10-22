@@ -15,7 +15,7 @@ namespace EnterpriseKnowledgeAssistant.API.Controllers
         {
             _searchService = searchService;
         }
-
+        //search chunks of text from the vector database using semantic search
         [HttpGet]
         public async Task<IActionResult> Search(
             [FromQuery] string query,
