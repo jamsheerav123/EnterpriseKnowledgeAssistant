@@ -150,13 +150,17 @@ The augmented prompt is then sent to the locally running `llama3.2:3b` model thr
 
 ## Architecture Diagram
 
-![Architecture Diagram](docs/docs/RAG System Architecture Diagram.png)
+![Architecture Diagram](docs/EnterpriseRAGClassDiagram.png)
 
 ---
+## Class Diagram
 
-## UML Class Diagram
+![Class Diagram](docs/EnterpriseRAGClassDiagram.png)
+---
 
-![UML Class Diagram](docs/uml-diagram.png)
+## UML Diagram
+
+![UML Diagram](docs/UML_diagram.png)
 
 ---
 
