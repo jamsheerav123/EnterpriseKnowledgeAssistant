@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EnterpriseKnowledgeAssistant.API/EnterpriseKnowledgeAssistant.API.csproj" />
+  <Project Path="EnterpriseKnowledgeAssistant.Application/EnterpriseKnowledgeAssistant.Application.csproj" />
+  <Project Path="EnterpriseKnowledgeAssistant.Domain/EnterpriseKnowledgeAssistant.Domain.csproj" />
+  <Project Path="EnterpriseKnowledgeAssistant.Infrastructure/EnterpriseKnowledgeAssistant.Infrastructure.csproj" />
+  <Project Path="EnterpriseKnowledgeAssistant.Persistence/EnterpriseKnowledgeAssistant.Persistence.csproj" />
+</Solution>
